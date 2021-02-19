@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "517708013250",
+    "firebase_url": "https://lctripsflutter.firebaseio.com",
+    "project_id": "lctripsflutter",
+    "storage_bucket": "lctripsflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517708013250:android:81c9e03b59a334a254e55b",
+        "android_client_info": {
+          "package_name": "lorenacode.platzi_trips_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517708013250-ijsbv35ghp9dj0l6g5uqabuhl8e457kh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lorenacode.platzi_trips_app",
+            "certificate_hash": "83ca7b7798ddac5cadba48d71153700ff461823a"
+          }
+        },
+        {
+          "client_id": "517708013250-ht31bsmv6vpr7bspnpvfrhkn51or2h50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9dt0f_ZhWuDAVt8k78PR8oik12H9AFxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517708013250-ht31bsmv6vpr7bspnpvfrhkn51or2h50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
